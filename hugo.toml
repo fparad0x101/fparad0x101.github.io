@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL        = "https://fparad0x.wtf/"
 locale = 'en-us'
-title = 'My New Hugo Project'
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+theme          = "hermit-v2"
+enableRobotsTXT = false
+
+[params]
+  homeSubtitle     = "I am a furry egg in denial."
+  code_copy_button = true
+  scrollToTop      = true
+  shareSocial      = true
